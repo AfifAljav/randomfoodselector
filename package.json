@@ -1,6 +1,6 @@
 {
   "name": "random-food-selector",
-  "version": "1.1.2",
+  "version": "1.222.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/AfifAljav/randomfoodselector.git"
+    "url": "https://github.com/AfifAljav/randomfoodselector"
   },
   "bugs": {
     "url": "https://github.com/AfifAljav/randomfoodselector/issues"
